@@ -1,0 +1,1 @@
+This is an HTML project that demonstrates the knowledge I gained from the HTML section of The Odin Project's Foundations unit.
